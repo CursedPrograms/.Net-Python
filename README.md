@@ -16,3 +16,10 @@ RunTime.PythonDLL + @"";
 
 [Python for .NET Documentation](https://pythonnet.github.io/)
 
+To make the setup script executable, run the following command in your terminal:
+
+```bash
+chmod +x setup.sh
+```
+
+
