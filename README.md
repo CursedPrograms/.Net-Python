@@ -17,13 +17,16 @@
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%23323330.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
 <div align="center">
+    <img alt="Git" src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%23323330.svg?&style=for-the-badge&logo=powershell&logoColor=white"/>
   <img alt="Shell" src="https://img.shields.io/badge/Shell-%23323330.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img alt="Batch" src="https://img.shields.io/badge/Batch-%23323330.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
-  </div>
-<br>
+  </div>  
+  <br>
 
 # .Net-Python
+
+  <br>
 
 Assign the location of the Python.DLL:
 
@@ -31,13 +34,20 @@ Assign the location of the Python.DLL:
 RunTime.PythonDLL + @"";
 ```
 
+  <br>
+
 [Python for .NET Documentation](https://pythonnet.github.io/)
+
+  <br>
 
 To make the setup script executable, run the following command in your terminal:
 
 ```bash
 chmod +x setup.sh
 ```
+
+  <br>
+
 ```bash
 bash setup.sh
 ```
