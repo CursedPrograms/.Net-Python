@@ -74,12 +74,6 @@ Unix-like systems (Linux/macOS):
 - `.\run.sh`
 
   <br>
-
-  <br>
-
-```bash
-bash setup.sh
-```
 <br>
 <div align="center">
 © Cursed Entertainment
